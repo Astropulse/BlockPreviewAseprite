@@ -1,0 +1,22 @@
+{
+  "name": "BlockPreview",
+  "displayName": "Block Preview",
+  "description": "Renders a 3D cube with various settings for previewing textures.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Astropulse"
+  },
+  "contributors": [],
+  "publisher": "Astropulse",
+  "license": "MIT",
+  "categories": [
+    "Scripts"
+  ],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./extension.lua"
+      }
+    ]
+  }
+}
